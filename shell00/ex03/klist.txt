@@ -1,0 +1,5 @@
+Credentials cache: API:137FE3FA-8794-44FC-8FEE-6525E9032C47
+        Principal: esafar@42.FR
+
+  Issued                Expires               Principal
+Feb  1 15:12:11 2021  Feb  8 15:12:11 2021  krbtgt/42.FR@42.FR
